@@ -1,0 +1,11 @@
+{
+  "name": "fullstack-azure-app",
+  "version": "1.0.0",
+  "description": "Frontend + Backend Node.js App",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Nikhil",
+  "license": "ISC"
+}
